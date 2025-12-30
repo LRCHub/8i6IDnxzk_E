@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鯨の落ちる街",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-30T20:07:08.541295Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鯨の落ちる街",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_鯨の落ちる街_ロクデナシ.txt"
+    }
+  ]
+}
